@@ -1,0 +1,13 @@
+ros-kinetic-tdk-robokit (0.0.2-1xenial) xenial; urgency=high
+
+  * remove declared dependencies on internally provided component
+
+ -- TDK-OpenSource <tdk-opensource@invensense.com>  Tue, 07 Jan 2020 08:00:00 -0000
+
+ros-kinetic-tdk-robokit (0.0.1-1xenial) xenial; urgency=high
+
+  * Initial commit of robokit ROS driver
+
+ -- TDK-OpenSource <tdk-opensource@invensense.com>  Mon, 06 Jan 2020 08:00:00 -0000
+
+

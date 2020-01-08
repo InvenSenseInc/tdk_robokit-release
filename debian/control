@@ -1,0 +1,12 @@
+Source: ros-kinetic-tdk-robokit
+Section: misc
+Priority: optional
+Maintainer: TDK-OpenSource <tdk-opensource@invensense.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-rospy, ros-kinetic-sensor-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-tdk-robokit
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-rospy, ros-kinetic-sensor-msgs
+Description: The tdk_robokit package
